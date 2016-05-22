@@ -476,7 +476,6 @@
 			<Item Name="monitor action.ctl" Type="VI" URL="../maglab ultrasound -- arkady/monitor action.ctl"/>
 			<Item Name="monitor scan logic.vi" Type="VI" URL="../maglab ultrasound -- arkady/monitor scan logic.vi"/>
 			<Item Name="monitor state.ctl" Type="VI" URL="../maglab ultrasound -- arkady/monitor state.ctl"/>
-			<Item Name="Neocera Set Point Aproach.ctl" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/Neocera/Neocera Set Point Aproach.ctl"/>
 			<Item Name="Neocera21 Get T.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/Neocera/Neocera21 Get T.vi"/>
 			<Item Name="Neocera21 Set T.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/Neocera/Neocera21 Set T.vi"/>
 			<Item Name="next chunk - read-write freq PID file - atomic actions .vi" Type="VI" URL="../maglab ultrasound -- arkady/next chunk - read-write freq PID file - atomic actions .vi"/>
@@ -561,6 +560,7 @@
 			<Item Name="save log.ctl" Type="VI" URL="../maglab ultrasound -- arkady/save log.ctl"/>
 			<Item Name="scale - offset gauge.ctl" Type="VI" URL="../maglab ultrasound -- arkady/scale - offset gauge.ctl"/>
 			<Item Name="Send Receive.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/GPIB/Send Receive.vi"/>
+			<Item Name="Set Point Aproach.ctl" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/Temperature Controller/Controls/Set Point Aproach.ctl"/>
 			<Item Name="Set Temperature PID - Control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/Set Temperature PID - Control.ctl"/>
 			<Item Name="set temperature SINEWAVE - V1.vi" Type="VI" URL="../maglab ultrasound -- arkady/set temperature SINEWAVE - V1.vi"/>
 			<Item Name="Setup Fast F Sweep.vi" Type="VI" URL="../Libraries/RUS/Setup Fast F Sweep.vi"/>
