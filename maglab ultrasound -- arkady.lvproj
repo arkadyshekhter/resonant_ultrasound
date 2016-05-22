@@ -350,11 +350,11 @@
 			<Item Name="alarm clock control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/alarm clock control.ctl"/>
 			<Item Name="alarm clock.vi" Type="VI" URL="../maglab ultrasound -- arkady/alarm clock.vi"/>
 			<Item Name="AmplitudeClock.vi" Type="VI" URL="../Libraries/NHMFL Synth/AmplitudeClock.vi"/>
-			<Item Name="Any file exists.vi" Type="VI" URL="../../DAQ/Libraries/File/Any file exists.vi"/>
-			<Item Name="Append Data DBL.vi" Type="VI" URL="../../DAQ/Libraries/File/Append Data DBL.vi"/>
-			<Item Name="Append Data INT.vi" Type="VI" URL="../../DAQ/Libraries/File/Append Data INT.vi"/>
-			<Item Name="Append Data.vi" Type="VI" URL="../../DAQ/Libraries/File/Append Data.vi"/>
-			<Item Name="AppendPathSeparator.vi" Type="VI" URL="../../DAQ/Libraries/File/File LLB/AppendPathSeparator.vi"/>
+			<Item Name="Any file exists.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/Any file exists.vi"/>
+			<Item Name="Append Data DBL.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/Append Data DBL.vi"/>
+			<Item Name="Append Data INT.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/Append Data INT.vi"/>
+			<Item Name="Append Data.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/Append Data.vi"/>
+			<Item Name="AppendPathSeparator.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/AppendPathSeparator.vi"/>
 			<Item Name="array - generate range.vi" Type="VI" URL="../maglab ultrasound -- arkady/array - generate range.vi"/>
 			<Item Name="array - smart min max.vi" Type="VI" URL="../maglab ultrasound -- arkady/array - smart min max.vi"/>
 			<Item Name="array - sorted inexes.vi" Type="VI" URL="../maglab ultrasound -- arkady/array - sorted inexes.vi"/>
@@ -366,7 +366,7 @@
 			<Item Name="BypassAndLogErrors -- V2.vi" Type="VI" URL="../maglab ultrasound -- arkady/BypassAndLogErrors -- V2.vi"/>
 			<Item Name="capacitor - aggregate.vi" Type="VI" URL="../maglab ultrasound -- arkady/capacitor - aggregate.vi"/>
 			<Item Name="Check Lockin Settings.vi" Type="VI" URL="../Libraries/Multi-Channel Lockin/Check Lockin Settings.vi"/>
-			<Item Name="CheckFileExist.vi" Type="VI" URL="../../DAQ/Libraries/File/File LLB/CheckFileExist.vi"/>
+			<Item Name="CheckFileExist.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/CheckFileExist.vi"/>
 			<Item Name="CheckSettingsNI-DAQ_Class.vi" Type="VI" URL="../Libraries/NI-DAQ/CheckSettingsNI-DAQ_Class.vi"/>
 			<Item Name="circle center from three points.vi" Type="VI" URL="../maglab ultrasound -- arkady/circle center from three points.vi"/>
 			<Item Name="circle corners.ctl" Type="VI" URL="../maglab ultrasound -- arkady/circle corners.ctl"/>
@@ -379,7 +379,7 @@
 			<Item Name="Control PID -- Pgg1.vi" Type="VI" URL="../maglab ultrasound -- arkady/Control PID -- Pgg1.vi"/>
 			<Item Name="countdown control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/countdown control.ctl"/>
 			<Item Name="counter-i.vi" Type="VI" URL="../maglab ultrasound -- arkady/counter-i.vi"/>
-			<Item Name="Create folder if not exist.vi" Type="VI" URL="../../DAQ/Libraries/File/File LLB/Create folder if not exist.vi"/>
+			<Item Name="Create folder if not exist.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/Create folder if not exist.vi"/>
 			<Item Name="Create pre-scan counter.vi" Type="VI" URL="../Libraries/RUS/Create pre-scan counter.vi"/>
 			<Item Name="Create update clock (AO).vi" Type="VI" URL="../Libraries/NHMFL Synth/Create update clock (AO).vi"/>
 			<Item Name="ctl -- name dispatcher -- action.ctl" Type="VI" URL="../maglab ultrasound -- arkady/ctl -- name dispatcher -- action.ctl"/>
@@ -410,7 +410,7 @@
 			<Item Name="file -- scan filename logic -- datestring.vi" Type="VI" URL="../maglab ultrasound -- arkady/file -- scan filename logic -- datestring.vi"/>
 			<Item Name="file -- scan filename logic -- V1.vi" Type="VI" URL="../maglab ultrasound -- arkady/file -- scan filename logic -- V1.vi"/>
 			<Item Name="file -- scan filename.ctl" Type="VI" URL="../maglab ultrasound -- arkady/file -- scan filename.ctl"/>
-			<Item Name="File formats.ctl" Type="VI" URL="../../DAQ/Libraries/File/Controls/File formats.ctl"/>
+			<Item Name="File formats.ctl" Type="VI" URL="../../NHMFL_Core/Libraries/File/Controls/File formats.ctl"/>
 			<Item Name="file name prefix.vi" Type="VI" URL="../maglab ultrasound -- arkady/file name prefix.vi"/>
 			<Item Name="File System timer.vi" Type="VI" URL="../maglab ultrasound -- arkady/File System timer.vi"/>
 			<Item Name="filter - complex - four.vi" Type="VI" URL="../maglab ultrasound -- arkady/filter - complex - four.vi"/>
@@ -431,11 +431,11 @@
 			<Item Name="gas flow controller control -- Pgg2.ctl" Type="VI" URL="../maglab ultrasound -- arkady/gas flow controller control -- Pgg2.ctl"/>
 			<Item Name="gas flow controller state.ctl" Type="VI" URL="../maglab ultrasound -- arkady/gas flow controller state.ctl"/>
 			<Item Name="generate linear region.vi" Type="VI" URL="../maglab ultrasound -- arkady/generate linear region.vi"/>
-			<Item Name="Generate mounth year strings.vi" Type="VI" URL="../../DAQ/Libraries/File/File LLB/Generate mounth year strings.vi"/>
-			<Item Name="GenerateUniqueFilename.vi" Type="VI" URL="../../DAQ/Libraries/File/File LLB/GenerateUniqueFilename.vi"/>
+			<Item Name="Generate mounth year strings.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/Generate mounth year strings.vi"/>
+			<Item Name="GenerateUniqueFilename.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/GenerateUniqueFilename.vi"/>
 			<Item Name="Get harmonics.vi" Type="VI" URL="../Libraries/Multi-Channel Lockin/Get harmonics.vi"/>
 			<Item Name="Get T -- LS340.vi" Type="VI" URL="../maglab ultrasound -- arkady/Get T -- LS340.vi"/>
-			<Item Name="GPIB Send Receive.vi" Type="VI" URL="../../DAQ/Libraries/Instruments/GPIB/GPIB Send Receive.vi"/>
+			<Item Name="GPIB Send Receive.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/GPIB/GPIB Send Receive.vi"/>
 			<Item Name="Harmonics per channel.ctl" Type="VI" URL="../Libraries/Multi-Channel Lockin/Controls/Harmonics per channel.ctl"/>
 			<Item Name="Initialize Port A.VI" Type="VI" URL="../Libraries/NHMFL Synth/Initialize Port A.VI"/>
 			<Item Name="InitNI-DAQ_Class.vi" Type="VI" URL="../Libraries/NI-DAQ/InitNI-DAQ_Class.vi"/>
@@ -465,9 +465,9 @@
 			<Item Name="lorentzian.ctl" Type="VI" URL="../maglab ultrasound -- arkady/lorentzian.ctl"/>
 			<Item Name="Low pass filter.vi" Type="VI" URL="../Libraries/Multi-Channel Lockin/Low pass filter.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="MakeDataFileNames.vi" Type="VI" URL="../../DAQ/Libraries/File/File LLB/MakeDataFileNames.vi"/>
-			<Item Name="MakeHeaderFile.vi" Type="VI" URL="../../DAQ/Libraries/File/File LLB/MakeHeaderFile.vi"/>
-			<Item Name="MakePath.vi" Type="VI" URL="../../DAQ/Libraries/File/File LLB/MakePath.vi"/>
+			<Item Name="MakeDataFileNames.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/MakeDataFileNames.vi"/>
+			<Item Name="MakeHeaderFile.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/MakeHeaderFile.vi"/>
+			<Item Name="MakePath.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/MakePath.vi"/>
 			<Item Name="Match dual clocks.vi" Type="VI" URL="../Libraries/NHMFL Synth/Match dual clocks.vi"/>
 			<Item Name="Mercury iXX.lvlib" Type="Library" URL="../maglab ultrasound -- arkady/mercury ixx/Mercury iXX.lvlib"/>
 			<Item Name="meta PID - V1.vi" Type="VI" URL="../maglab ultrasound -- arkady/meta PID - V1.vi"/>
@@ -476,9 +476,9 @@
 			<Item Name="monitor action.ctl" Type="VI" URL="../maglab ultrasound -- arkady/monitor action.ctl"/>
 			<Item Name="monitor scan logic.vi" Type="VI" URL="../maglab ultrasound -- arkady/monitor scan logic.vi"/>
 			<Item Name="monitor state.ctl" Type="VI" URL="../maglab ultrasound -- arkady/monitor state.ctl"/>
-			<Item Name="Neocera Set Point Aproach.ctl" Type="VI" URL="../../DAQ/Libraries/Instruments/Neocera/Neocera Set Point Aproach.ctl"/>
-			<Item Name="Neocera21 Get T.vi" Type="VI" URL="../../DAQ/Libraries/Instruments/Neocera/Neocera21 Get T.vi"/>
-			<Item Name="Neocera21 Set T.vi" Type="VI" URL="../../DAQ/Libraries/Instruments/Neocera/Neocera21 Set T.vi"/>
+			<Item Name="Neocera Set Point Aproach.ctl" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/Neocera/Neocera Set Point Aproach.ctl"/>
+			<Item Name="Neocera21 Get T.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/Neocera/Neocera21 Get T.vi"/>
+			<Item Name="Neocera21 Set T.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/Neocera/Neocera21 Set T.vi"/>
 			<Item Name="next chunk - read-write freq PID file - atomic actions .vi" Type="VI" URL="../maglab ultrasound -- arkady/next chunk - read-write freq PID file - atomic actions .vi"/>
 			<Item Name="next chunk - V4.vi" Type="VI" URL="../maglab ultrasound -- arkady/next chunk - V4.vi"/>
 			<Item Name="next chunk -- action stack.vi" Type="VI" URL="../maglab ultrasound -- arkady/next chunk -- action stack.vi"/>
@@ -494,7 +494,7 @@
 			<Item Name="Oxford visa write read byte sized-- Hg.vi" Type="VI" URL="../maglab ultrasound -- arkady/Oxford visa write read byte sized-- Hg.vi"/>
 			<Item Name="p9action control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/p9action control.ctl"/>
 			<Item Name="p9ctl.vi" Type="VI" URL="../maglab ultrasound -- arkady/p9ctl.vi"/>
-			<Item Name="Pad TAB.vi" Type="VI" URL="../../DAQ/Libraries/Utilities/Pad TAB.vi"/>
+			<Item Name="Pad TAB.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Utilities/Pad TAB.vi"/>
 			<Item Name="pair.ctl" Type="VI" URL="../maglab ultrasound -- arkady/pair.ctl"/>
 			<Item Name="parameters -- scan monitor control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/parameters -- scan monitor control.ctl"/>
 			<Item Name="parse -- check for exact match.vi" Type="VI" URL="../maglab ultrasound -- arkady/parse -- check for exact match.vi"/>
@@ -551,16 +551,16 @@
 			<Item Name="RUS Sweep -- write line to Temperatures file.vi" Type="VI" URL="../maglab ultrasound -- arkady/RUS Sweep -- write line to Temperatures file.vi"/>
 			<Item Name="RUS_settings.vi" Type="VI" URL="../Libraries/RUS/RUS_settings.vi"/>
 			<Item Name="Sample_Temperature_Source_Control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/Sample_Temperature_Source_Control.ctl"/>
-			<Item Name="Save column names.vi" Type="VI" URL="../../DAQ/Libraries/File/Save column names.vi"/>
-			<Item Name="Save Data DBL.vi" Type="VI" URL="../../DAQ/Libraries/File/Save Data DBL.vi"/>
-			<Item Name="Save data details.ctl" Type="VI" URL="../../DAQ/Libraries/File/Controls/Save data details.ctl"/>
-			<Item Name="Save Data INT.vi" Type="VI" URL="../../DAQ/Libraries/File/Save Data INT.vi"/>
-			<Item Name="Save data settings.ctl" Type="VI" URL="../../DAQ/Libraries/File/Controls/Save data settings.ctl"/>
-			<Item Name="Save Data.vi" Type="VI" URL="../../DAQ/Libraries/File/Save Data.vi"/>
+			<Item Name="Save column names.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/Save column names.vi"/>
+			<Item Name="Save Data DBL.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/Save Data DBL.vi"/>
+			<Item Name="Save data details.ctl" Type="VI" URL="../../NHMFL_Core/Libraries/File/Controls/Save data details.ctl"/>
+			<Item Name="Save Data INT.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/Save Data INT.vi"/>
+			<Item Name="Save data settings.ctl" Type="VI" URL="../../NHMFL_Core/Libraries/File/Controls/Save data settings.ctl"/>
+			<Item Name="Save Data.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/Save Data.vi"/>
 			<Item Name="save ITC log.vi" Type="VI" URL="../maglab ultrasound -- arkady/save ITC log.vi"/>
 			<Item Name="save log.ctl" Type="VI" URL="../maglab ultrasound -- arkady/save log.ctl"/>
 			<Item Name="scale - offset gauge.ctl" Type="VI" URL="../maglab ultrasound -- arkady/scale - offset gauge.ctl"/>
-			<Item Name="Send Receive.vi" Type="VI" URL="../../DAQ/Libraries/Instruments/GPIB/Send Receive.vi"/>
+			<Item Name="Send Receive.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/GPIB/Send Receive.vi"/>
 			<Item Name="Set Temperature PID - Control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/Set Temperature PID - Control.ctl"/>
 			<Item Name="set temperature SINEWAVE - V1.vi" Type="VI" URL="../maglab ultrasound -- arkady/set temperature SINEWAVE - V1.vi"/>
 			<Item Name="Setup Fast F Sweep.vi" Type="VI" URL="../Libraries/RUS/Setup Fast F Sweep.vi"/>
@@ -575,11 +575,11 @@
 			<Item Name="single sweep - upload freq window.vi" Type="VI" URL="../maglab ultrasound -- arkady/single sweep - upload freq window.vi"/>
 			<Item Name="slider timer .vi" Type="VI" URL="../maglab ultrasound -- arkady/slider timer .vi"/>
 			<Item Name="Split file name.vi" Type="VI" URL="../maglab ultrasound -- arkady/Split file name.vi"/>
-			<Item Name="SRS cleanup.vi" Type="VI" URL="../../DAQ/Libraries/Instruments/SRS/sr850/SRS cleanup.vi"/>
-			<Item Name="SRS Lockin Get Range.vi" Type="VI" URL="../../DAQ/Libraries/Instruments/SRS/sr850/SRS Lockin Get Range.vi"/>
-			<Item Name="SRS Lockin Start Fast Mode.vi" Type="VI" URL="../../DAQ/Libraries/Instruments/SRS/sr850/SRS Lockin Start Fast Mode.vi"/>
+			<Item Name="SRS cleanup.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/SRS/sr850/SRS cleanup.vi"/>
+			<Item Name="SRS Lockin Get Range.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/SRS/sr850/SRS Lockin Get Range.vi"/>
+			<Item Name="SRS Lockin Start Fast Mode.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/SRS/sr850/SRS Lockin Start Fast Mode.vi"/>
 			<Item Name="stack action -- control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/stack action -- control.ctl"/>
-			<Item Name="Start Data Save.vi" Type="VI" URL="../../DAQ/Libraries/File/Start Data Save.vi"/>
+			<Item Name="Start Data Save.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/Start Data Save.vi"/>
 			<Item Name="state.ctl" Type="VI" URL="../maglab ultrasound -- arkady/state.ctl"/>
 			<Item Name="Step Frequency.vi" Type="VI" URL="../Libraries/RUS/Step Frequency.vi"/>
 			<Item Name="Stop Fast F Sweep.vi" Type="VI" URL="../Libraries/RUS/Stop Fast F Sweep.vi"/>
@@ -603,11 +603,11 @@
 			<Item Name="time in gamma mode control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/time in gamma mode control.ctl"/>
 			<Item Name="TimingGenerator.vi" Type="VI" URL="../Libraries/NHMFL Synth/TimingGenerator.vi"/>
 			<Item Name="trig -- arctan.vi" Type="VI" URL="../maglab ultrasound -- arkady/trig -- arctan.vi"/>
-			<Item Name="TryAgain.vi" Type="VI" URL="../../DAQ/Libraries/File/File LLB/TryAgain.vi"/>
-			<Item Name="VISA  Send Receive.vi" Type="VI" URL="../../DAQ/Libraries/Instruments/GPIB/VISA  Send Receive.vi"/>
+			<Item Name="TryAgain.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/TryAgain.vi"/>
+			<Item Name="VISA  Send Receive.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/GPIB/VISA  Send Receive.vi"/>
 			<Item Name="wavepacket.ctl" Type="VI" URL="../maglab ultrasound -- arkady/wavepacket.ctl"/>
-			<Item Name="Write Characters To File With Err.vi" Type="VI" URL="../../DAQ/Libraries/File/File LLB/Write Characters To File With Err.vi"/>
-			<Item Name="Write To Spreadsheet File with err check.vi" Type="VI" URL="../../DAQ/Libraries/File/File LLB/Write To Spreadsheet File with err check.vi"/>
+			<Item Name="Write Characters To File With Err.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/Write Characters To File With Err.vi"/>
+			<Item Name="Write To Spreadsheet File with err check.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/Write To Spreadsheet File with err check.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
