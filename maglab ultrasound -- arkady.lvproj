@@ -13,7 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Applications" Type="Folder">
 			<Item Name="app - monitor RUS scan.vi" Type="VI" URL="../maglab ultrasound -- arkady/app - monitor RUS scan.vi"/>
-			<Item Name="App - RUS scan V2.vi" Type="VI" URL="../maglab ultrasound -- arkady/App - RUS scan V2.vi"/>
+			<Item Name="App - RUS scan.vi" Type="VI" URL="../maglab ultrasound -- arkady/App - RUS scan.vi"/>
 			<Item Name="App - temperature sweep -- Pgg2.vi" Type="VI" URL="../maglab ultrasound -- arkady/App - temperature sweep -- Pgg2.vi"/>
 		</Item>
 		<Item Name="Documentation" Type="Folder">
