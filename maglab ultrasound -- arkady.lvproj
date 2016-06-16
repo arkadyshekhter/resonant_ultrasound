@@ -25,6 +25,7 @@
 		<Item Name="Libraries" Type="Folder">
 			<Item Name="circledll.dll" Type="Document" URL="../maglab ultrasound -- arkady/circledll.dll"/>
 		</Item>
+		<Item Name="View File.vi" Type="VI" URL="../Libraries/RUS/View File.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Append Waveforms.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Append Waveforms.vi"/>
@@ -539,6 +540,7 @@
 			<Item Name="read 2500A.vi" Type="VI" URL="../maglab ultrasound -- arkady/read 2500A.vi"/>
 			<Item Name="read scan file control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/read scan file control.ctl"/>
 			<Item Name="RealSynthByteGenerator.vi" Type="VI" URL="../Libraries/NHMFL Synth/RealSynthByteGenerator.vi"/>
+			<Item Name="Receiver format.ctl" Type="VI" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP Core/RP Transceiver/Receiver format.ctl"/>
 			<Item Name="replace cursor - plot ref - V2.vi" Type="VI" URL="../maglab ultrasound -- arkady/replace cursor - plot ref - V2.vi"/>
 			<Item Name="replace cursor - plot ref.vi" Type="VI" URL="../maglab ultrasound -- arkady/replace cursor - plot ref.vi"/>
 			<Item Name="Rotate Lockin Phase.vi" Type="VI" URL="../SoftwareLockin/SoftwareLockin.llb/Rotate Lockin Phase.vi"/>
