@@ -1,0 +1,9 @@
+# set temperature PID
+# Time 
+# set temperature
+# weight
+
+#cooling
+0min	500min	800min	1000min	1200min
+305	180	80	30	5
+1	1	1	3	5

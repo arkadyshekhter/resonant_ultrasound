@@ -1,0 +1,13 @@
+# set temperature - Sine wave
+#
+# T = T0 + Delta_T * Sin( (2\pi) t / \tau ) 
+#
+# Delta_T is amplitude (Kelvin) 
+# \tau is period (Minutes) 
+#
+# columns are : 
+# T0(K) Delta_T(K) tau(min)
+
+370K	5K	114.6min
+1	1	1					
+1	1	1	
