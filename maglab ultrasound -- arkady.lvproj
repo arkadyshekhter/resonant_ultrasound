@@ -25,7 +25,6 @@
 		<Item Name="Libraries" Type="Folder">
 			<Item Name="circledll.dll" Type="Document" URL="../maglab ultrasound -- arkady/circledll.dll"/>
 		</Item>
-		<Item Name="View File.vi" Type="VI" URL="../Libraries/RUS/View File.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Append Waveforms.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/WDTOps.llb/Append Waveforms.vi"/>
