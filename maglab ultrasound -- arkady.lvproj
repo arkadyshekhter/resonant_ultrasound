@@ -395,7 +395,6 @@
 			<Item Name="draw a circle.vi" Type="VI" URL="../maglab ultrasound -- arkady/draw a circle.vi"/>
 			<Item Name="draw a line.vi" Type="VI" URL="../maglab ultrasound -- arkady/draw a line.vi"/>
 			<Item Name="draw complex lorentzian.vi" Type="VI" URL="../maglab ultrasound -- arkady/draw complex lorentzian.vi"/>
-			<Item Name="DTM Read.vi" Type="VI" URL="../maglab ultrasound -- arkady/DTM Read.vi"/>
 			<Item Name="FedorEnterSerialMode.vi" Type="VI" URL="../Libraries/NHMFL Synth/FedorEnterSerialMode.vi"/>
 			<Item Name="FedorEnterZeros.vi" Type="VI" URL="../Libraries/NHMFL Synth/FedorEnterZeros.vi"/>
 			<Item Name="FedorPowerUp.vi" Type="VI" URL="../Libraries/NHMFL Synth/FedorPowerUp.vi"/>
@@ -493,7 +492,7 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Oxford GPIB write read.vi" Type="VI" URL="../maglab ultrasound -- arkady/Oxford GPIB write read.vi"/>
+			<Item Name="Oxford visa write read byte sized-- Hg.vi" Type="VI" URL="../maglab ultrasound -- arkady/Oxford visa write read byte sized-- Hg.vi"/>
 			<Item Name="p9action control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/p9action control.ctl"/>
 			<Item Name="p9ctl.vi" Type="VI" URL="../maglab ultrasound -- arkady/p9ctl.vi"/>
 			<Item Name="Pad TAB.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Utilities/Pad TAB.vi"/>
