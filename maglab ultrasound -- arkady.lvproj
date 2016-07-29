@@ -395,6 +395,7 @@
 			<Item Name="draw a circle.vi" Type="VI" URL="../maglab ultrasound -- arkady/draw a circle.vi"/>
 			<Item Name="draw a line.vi" Type="VI" URL="../maglab ultrasound -- arkady/draw a line.vi"/>
 			<Item Name="draw complex lorentzian.vi" Type="VI" URL="../maglab ultrasound -- arkady/draw complex lorentzian.vi"/>
+			<Item Name="DTM Read.vi" Type="VI" URL="../maglab ultrasound -- arkady/DTM Read.vi"/>
 			<Item Name="FedorEnterSerialMode.vi" Type="VI" URL="../Libraries/NHMFL Synth/FedorEnterSerialMode.vi"/>
 			<Item Name="FedorEnterZeros.vi" Type="VI" URL="../Libraries/NHMFL Synth/FedorEnterZeros.vi"/>
 			<Item Name="FedorPowerUp.vi" Type="VI" URL="../Libraries/NHMFL Synth/FedorPowerUp.vi"/>
@@ -473,6 +474,7 @@
 			<Item Name="Mercury iXX.lvlib" Type="Library" URL="../maglab ultrasound -- arkady/mercury ixx/Mercury iXX.lvlib"/>
 			<Item Name="meta PID - V1.vi" Type="VI" URL="../maglab ultrasound -- arkady/meta PID - V1.vi"/>
 			<Item Name="meta PID - Wave - V1.vi" Type="VI" URL="../maglab ultrasound -- arkady/meta PID - Wave - V1.vi"/>
+			<Item Name="Mode.ctl" Type="VI" URL="../../NHMFL_Core/Libraries/Red Pitaya/Mode.ctl"/>
 			<Item Name="monitor -- write section files.vi" Type="VI" URL="../maglab ultrasound -- arkady/monitor -- write section files.vi"/>
 			<Item Name="monitor action.ctl" Type="VI" URL="../maglab ultrasound -- arkady/monitor action.ctl"/>
 			<Item Name="monitor scan logic.vi" Type="VI" URL="../maglab ultrasound -- arkady/monitor scan logic.vi"/>
@@ -491,7 +493,7 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="Oxford visa write read byte sized-- Hg.vi" Type="VI" URL="../maglab ultrasound -- arkady/Oxford visa write read byte sized-- Hg.vi"/>
+			<Item Name="Oxford GPIB write read.vi" Type="VI" URL="../maglab ultrasound -- arkady/Oxford GPIB write read.vi"/>
 			<Item Name="p9action control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/p9action control.ctl"/>
 			<Item Name="p9ctl.vi" Type="VI" URL="../maglab ultrasound -- arkady/p9ctl.vi"/>
 			<Item Name="Pad TAB.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Utilities/Pad TAB.vi"/>
@@ -543,10 +545,14 @@
 			<Item Name="replace cursor - plot ref - V2.vi" Type="VI" URL="../maglab ultrasound -- arkady/replace cursor - plot ref - V2.vi"/>
 			<Item Name="replace cursor - plot ref.vi" Type="VI" URL="../maglab ultrasound -- arkady/replace cursor - plot ref.vi"/>
 			<Item Name="Rotate Lockin Phase.vi" Type="VI" URL="../SoftwareLockin/SoftwareLockin.llb/Rotate Lockin Phase.vi"/>
+			<Item Name="RP calculate subset.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP calculate subset.vi"/>
 			<Item Name="RP Command.ctl" Type="VI" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP Command.ctl"/>
 			<Item Name="RP Communicator.lvclass" Type="LVClass" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP Core/RP Communicator/RP Communicator.lvclass"/>
+			<Item Name="RP Instrument.lvclass" Type="LVClass" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP Core/RP Instrument/RP Instrument.lvclass"/>
 			<Item Name="RP Read RX FIFO Fast.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP Read RX FIFO Fast.vi"/>
 			<Item Name="RP Read Status.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP Read Status.vi"/>
+			<Item Name="RP Read Subset.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP Read Subset.vi"/>
+			<Item Name="RP Read Temperature.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP Read Temperature.vi"/>
 			<Item Name="RP Transceiver.lvclass" Type="LVClass" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP Core/RP Transceiver/RP Transceiver.lvclass"/>
 			<Item Name="RP Transmit Data.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP Transmit Data.vi"/>
 			<Item Name="RP Write Command.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Red Pitaya/RP Write Command.vi"/>
