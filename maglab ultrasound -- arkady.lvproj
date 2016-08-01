@@ -364,6 +364,7 @@
 			<Item Name="array -- interpolate -- i.vi" Type="VI" URL="../maglab ultrasound -- arkady/array -- interpolate -- i.vi"/>
 			<Item Name="array -- remove zeros.vi" Type="VI" URL="../maglab ultrasound -- arkady/array -- remove zeros.vi"/>
 			<Item Name="BypassAndLogErrors -- V2.vi" Type="VI" URL="../maglab ultrasound -- arkady/BypassAndLogErrors -- V2.vi"/>
+			<Item Name="BypassAndLogErrors.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Utilities/BypassAndLogErrors.vi"/>
 			<Item Name="capacitor - aggregate.vi" Type="VI" URL="../maglab ultrasound -- arkady/capacitor - aggregate.vi"/>
 			<Item Name="Check Lockin Settings.vi" Type="VI" URL="../Libraries/Multi-Channel Lockin/Check Lockin Settings.vi"/>
 			<Item Name="CheckFileExist.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/CheckFileExist.vi"/>
@@ -442,9 +443,12 @@
 			<Item Name="IntegerSynByteArray2.vi" Type="VI" URL="../Libraries/NHMFL Synth/IntegerSynByteArray2.vi"/>
 			<Item Name="IntegerSynByteArrayBulk.vi" Type="VI" URL="../Libraries/NHMFL Synth/IntegerSynByteArrayBulk.vi"/>
 			<Item Name="interpolation state - real.ctl" Type="VI" URL="../maglab ultrasound -- arkady/interpolation state - real.ctl"/>
+			<Item Name="ITC 503 -- upload sweep table.vi" Type="VI" URL="../maglab ultrasound -- arkady/ITC 503 -- upload sweep table.vi"/>
 			<Item Name="itc 503 box - control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/itc 503 box - control.ctl"/>
+			<Item Name="itc 503 box controller -- A0.vi" Type="VI" URL="../maglab ultrasound -- arkady/itc 503 box controller -- A0.vi"/>
 			<Item Name="itc 503 box state.ctl" Type="VI" URL="../maglab ultrasound -- arkady/itc 503 box state.ctl"/>
 			<Item Name="itc Hg box controller -- Pgg2.vi" Type="VI" URL="../maglab ultrasound -- arkady/itc Hg box controller -- Pgg2.vi"/>
+			<Item Name="itc Hg box controller -- wrapper -- A1.vi" Type="VI" URL="../maglab ultrasound -- arkady/itc Hg box controller -- wrapper -- A1.vi"/>
 			<Item Name="itc ltc - aggregate.vi" Type="VI" URL="../maglab ultrasound -- arkady/itc ltc - aggregate.vi"/>
 			<Item Name="itc ltc plots.vi" Type="VI" URL="../maglab ultrasound -- arkady/itc ltc plots.vi"/>
 			<Item Name="ITC Panel -- Hg.ctl" Type="VI" URL="../maglab ultrasound -- arkady/ITC Panel -- Hg.ctl"/>
@@ -492,7 +496,12 @@
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Oxford clear buffer.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/Oxford/Oxford clear buffer.vi"/>
+			<Item Name="oxford ITC legacy-new - control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/oxford ITC legacy-new - control.ctl"/>
+			<Item Name="Oxford Read Channel.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/Oxford/Oxford Read Channel.vi"/>
+			<Item Name="Oxford set termination.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/Oxford/Oxford set termination.vi"/>
 			<Item Name="Oxford visa write read byte sized-- Hg.vi" Type="VI" URL="../maglab ultrasound -- arkady/Oxford visa write read byte sized-- Hg.vi"/>
+			<Item Name="Oxford visa write read.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/Oxford/Oxford visa write read.vi"/>
 			<Item Name="p9action control.ctl" Type="VI" URL="../maglab ultrasound -- arkady/p9action control.ctl"/>
 			<Item Name="p9ctl.vi" Type="VI" URL="../maglab ultrasound -- arkady/p9ctl.vi"/>
 			<Item Name="Pad TAB.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Utilities/Pad TAB.vi"/>
@@ -619,6 +628,7 @@
 			<Item Name="trig -- arctan.vi" Type="VI" URL="../maglab ultrasound -- arkady/trig -- arctan.vi"/>
 			<Item Name="TryAgain.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/TryAgain.vi"/>
 			<Item Name="VISA  Send Receive.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Instruments/GPIB/VISA  Send Receive.vi"/>
+			<Item Name="Wait miliseconds.vi" Type="VI" URL="../../NHMFL_Core/Libraries/Utilities/Wait miliseconds.vi"/>
 			<Item Name="wavepacket.ctl" Type="VI" URL="../maglab ultrasound -- arkady/wavepacket.ctl"/>
 			<Item Name="Write Characters To File With Err.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/Write Characters To File With Err.vi"/>
 			<Item Name="Write To Spreadsheet File with err check.vi" Type="VI" URL="../../NHMFL_Core/Libraries/File/File LLB/Write To Spreadsheet File with err check.vi"/>
